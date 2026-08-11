@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Arkan
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Developer+in+Progress;UI%2FUX+Enthusiast;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
