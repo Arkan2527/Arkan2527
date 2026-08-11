@@ -1,79 +1,59 @@
 # 👋 Hi, I'm Arkan
 
-### 💻 Frontend Developer | React Learner | UI Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Developer+in+Progress;UI%2FUX+Enthusiast;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
+</p>
 
-I'm a beginner Frontend Developer passionate about building **responsive, clean, and user-friendly websites**.
-
-I'm currently learning and improving my skills by building real-world projects with modern frontend technologies.
-
----
-
-## 🚀 About Me
-
-* 🌱 Currently learning **React.js & JavaScript**
-* 💻 Building responsive websites with **HTML, CSS & Bootstrap**
-* ⚛️ Learning **React.js & Vite**
-* 🎨 Interested in **UI Design & Frontend Development**
-* 📚 Always learning and improving
-* 🚀 Building projects to grow my frontend development skills
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 About Me
 
-### 💻 Frontend
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+I'm **Arkan**, a beginner Frontend Developer who enjoys turning ideas into clean and responsive web interfaces.
+
+🌱 Currently learning **React.js & JavaScript**
+
+💻 Building projects with **HTML, CSS & Bootstrap**
+
+⚛️ Exploring **React.js, Vite & APIs**
+
+🎨 Interested in **UI design & frontend development**
+
+📚 Learning by building real-world projects
+
+🚀 Working towards becoming a professional Frontend Developer
+
+<br clear="right"/>
+
+---
+
+## 🛠️ My Tech Stack
+
+### 🌐 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
+</p>
 
 ### 🔧 Tools
 
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=vite,git,github,vscode" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## ⚡ What I'm Learning
 
-### 🛒 E-Commerce Website
+<details>
+<summary>🚀 Click to see my current learning path</summary>
 
-A responsive e-commerce website built to practice product layouts, cards, navigation, and responsive design.
-
-**Tech:** HTML • CSS • Bootstrap • JavaScript
-
-🔗 **[Live Demo](#)**
-🔗 **[View Code](#)**
-
----
-
-### 🎓 Academy Test Panel
-
-A frontend test panel where users can explore different topics and attempt quizzes.
-
-**Tech:** React • Bootstrap • CSS • JavaScript
-
-🔗 **[Live Demo](#)**
-🔗 **[View Code](#)**
-
----
-
-### 💼 Business Landing Page
-
-A responsive business website focused on clean UI, reusable sections, responsive layouts, and modern frontend design.
-
-**Tech:** React • Bootstrap • CSS
-
-🔗 **[Live Demo](#)**
-🔗 **[View Code](#)**
-
----
-
-## 📚 Currently Learning
+<br>
 
 ```text
 HTML & CSS
@@ -89,34 +69,123 @@ APIs & Axios
 Real-World Projects
 ```
 
-### 🎯 Improving My Skills In
+### Currently Improving
 
-* JavaScript fundamentals
-* React components
-* Props & State
-* API integration
-* Axios
-* Responsive design
-* Reusable components
-* Git & GitHub
-* Clean code
+* 🟨 JavaScript fundamentals
+* ⚛️ React components
+* 🔄 Props & State
+* 🌐 API integration
+* 📱 Responsive design
+* 🧩 Reusable components
+* 🔧 Git & GitHub
+* 🧹 Clean code
+
+</details>
 
 ---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🛒 E-Commerce Website
+
+Responsive e-commerce interface with product cards, navigation and responsive layouts.
+
+**HTML • CSS • Bootstrap • JavaScript**
+
+<a href="#">
+<img src="https://img.shields.io/badge/🔗%20Live%20Demo-Visit-36BCF7?style=for-the-badge" />
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🎓 Academy Test Panel
+
+Interactive test panel built for practicing React components, cards, quizzes and UI layouts.
+
+**React • Bootstrap • CSS • JavaScript**
+
+<a href="#">
+<img src="https://img.shields.io/badge/🔗%20Live%20Demo-Visit-36BCF7?style=for-the-badge" />
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 💼 Business Landing Page
+
+Modern responsive business website focusing on clean UI and reusable React components.
+
+**React • Bootstrap • CSS**
+
+<a href="#">
+<img src="https://img.shields.io/badge/🔗%20Live%20Demo-Visit-36BCF7?style=for-the-badge" />
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🚧 More Projects Coming Soon...
+
+I'm continuously building new projects to improve my frontend development skills.
+
+<img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge" />
+
+</td>
+
+</tr>
+</table>
+
 
 ## 🎯 My Goals
 
-* 🚀 Become a confident Frontend Developer
-* ⚛️ Build stronger React projects
-* 🧠 Improve JavaScript problem-solving
-* 🎨 Create better UI experiences
-* 💼 Build a strong developer portfolio
-* 🤝 Contribute to open-source projects
+```text
+┌───────────────────────────────────────────────┐
+│                                               │
+│  🚀 Become a confident Frontend Developer     │
+│                                               │
+│  ⚛️  Build advanced React applications       │
+│                                               │
+│  🧠 Improve JavaScript problem solving        │
+│                                               │
+│  🎨 Create beautiful & accessible UI          │
+│                                               │
+│  💼 Build a strong developer portfolio        │
+│                                               │
+│  🤝 Contribute to Open Source                 │
+│                                               │
+└───────────────────────────────────────────────┘
+```
 
 ---
 
-## 🌐 Find Me Online
+## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://github.com/Arkan2527">
 <img src="https://img.shields.io/badge/GitHub-Arkan2527-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -130,28 +199,10 @@ Real-World Projects
 
 ---
 
-## 📈 My GitHub Journey
+<p align="center">
 
-I'm using GitHub to:
+### 💡 Build → Break → Learn → Improve → Repeat
 
-* 📂 Store and organize my projects
-* 🧪 Experiment with new technologies
-* 📚 Track my learning journey
-* 🚀 Share my frontend projects
-* 🤝 Learn from other developers
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer&animation=fadeIn" />
 
----
-
-## 💡 Developer Mindset
-
-> **Build → Break → Learn → Improve → Repeat**
-
-I'm still at the beginning of my development journey, but I'm committed to learning, building, and becoming a better developer every day.
-
----
-
-### ⭐ Thanks for visiting my profile!
-
-If you find any of my projects interesting, feel free to explore them.
-
-**Happy Coding! 🚀**
+</p>
